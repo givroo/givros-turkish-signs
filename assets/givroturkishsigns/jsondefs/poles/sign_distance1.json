@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Distance - Blue w/ Green and Blue Route Numbers",
+        "name" : "Distance - Blue w/ Green and Blue Route Numbers (Left)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],

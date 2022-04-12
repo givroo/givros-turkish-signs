@@ -1,41 +1,30 @@
 {
     "general": {
-        "name" : "Blue - City Enter Left",
+        "name" : "Blue - City Enter Right",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],
         "textObjects" : [
-            {
-                        "fieldName" : "City Name",
-                        "pos" : [0.5, 0.80, 0.001],
-                        "rot" : [0.0, 0.0, 0.0],
-                       "scale" : 0.4,
-              "maxLength": 20,
-              
-              "autoScale" : true,
-              "renderPosition" : 0, 
-                       "color" : "0xFFFFFF"
-                                  },
                                   {
-                                    "fieldName" : "Population Text",
-                                    "pos" : [-0.45, 0.51, 0.001],
+                                    "fieldName" : "Population",
+                                    "pos" : [0.45, 0.51, 0.001],
                                     "rot" : [0.0, 0.0, 0.0],
                                    "scale" : 0.3,
                           "maxLength": 20,
                           
                           "autoScale" : true,
-                          "renderPosition" : 1, 
+                          "renderPosition" : 2, 
                                    "color" : "0xFFFFFF"
                                               },
                                               {
-                                                "fieldName" : "Elevation Text",
-                                                "pos" : [-0.45, 0.31, 0.001],
+                                                "fieldName" : "Elevation",
+                                                "pos" : [0.45, 0.31, 0.001],
                                                 "rot" : [0.0, 0.0, 0.0],
                                                "scale" : 0.3,
                                       "maxLength": 20,
                                       
                                       "autoScale" : true,
-                                      "renderPosition" : 1, 
+                                      "renderPosition" : 2, 
                                                "color" : "0xFFFFFF"
                                                           }
                                 ]

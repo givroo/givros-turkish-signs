@@ -1,8 +1,9 @@
 {
     "general": {
-        "name" : "Karayolları Sorumluluk Sahası Sonu (Sol)",
+        "name" : "Blue - City Exit Right",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"]
+    
 	}
 }

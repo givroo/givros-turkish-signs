@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "[TR] Karayolları Jurisdiction Ends (Right)",
+        "name" : "Karayolları Sorumluluk Sahası Sonu (Sağ)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"]
