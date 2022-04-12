@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "[TR] Karayolları Jurisdiction Ends (Left)",
+        "name" : "Jurisdiction Ends (Right)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"]
