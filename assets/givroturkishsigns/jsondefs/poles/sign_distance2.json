@@ -1,0 +1,55 @@
+{
+    "general": {
+        "name" : "Distance - Blue w/ Green and Blue Route Numbers",
+        "type" : "sign",
+        "modelName" : "sign",
+        "materials" : ["oredict:ingotIron:1"],
+				"textObjects" : [
+        {
+					"fieldName" : "Distance 1",
+					"pos" : [0.45, 0.74, 0.001],
+					"rot" : [0.0, 0.0, 0.0],
+	   			"scale" : 0.35,
+          "maxLength": 20,
+		  "wrapWidth" : 15,
+		  "autoScale" : true,
+		  "renderPosition" : 2, 
+	   			"color" : "0xFFFFFF"
+	   		},
+			   {
+				"fieldName" : "Distance 2",
+				"pos" : [0.45, 0.51, 0.001],
+				"rot" : [0.0, 0.0, 0.0],
+			   "scale" : 0.35,
+	  "maxLength": 20,
+	  "wrapWidth" : 15,
+	  "autoScale" : true,
+	  "renderPosition" : 2, 
+			   "color" : "0xFFFFFF"
+			   },
+			   {
+				"fieldName" : "Green Route Number",
+				"pos" : [0, 0.88, 0.001],
+				"rot" : [0.0, 0.0, 0.0],
+			   "scale" : 0.20,
+	  "maxLength": 5,
+	  "wrapWidth" : 16,
+	  "autoScale" : true,
+	  "renderPosition" : 0, 
+			   "color" : "0xFFFFFF"
+			   },
+			   {
+				"fieldName" : "Distance 3",
+				"pos" : [0.45, 0.28, 0.001],
+				"rot" : [0.0, 0.0, 0.0],
+			   "scale" : 0.35,
+	  "maxLength": 20,
+	  "wrapWidth" : 15,
+	  "autoScale" : true,
+	  "renderPosition" : 2, 
+			   "color" : "0xFFFFFF"
+			   }
+		]
+		
+	}
+}
