@@ -1,0 +1,9 @@
+{
+    "general": {
+        "name" : "Tunnel Right",
+        "type" : "sign",
+        "modelName" : "sign",
+        "materials" : ["oredict:ingotIron:1"]
+    
+	}
+}

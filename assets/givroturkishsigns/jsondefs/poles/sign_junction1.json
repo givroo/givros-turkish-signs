@@ -1,19 +1,19 @@
 {
     "general": {
-        "name" : "Blue - Go Right For Destination Sign",
+        "name" : "Highway Junction Sign Left",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],
         "textObjects" : [
             {
-                        "fieldName" : "Line 1",
-                        "pos" : [-0.45, 0.61, 0.001],
+                        "fieldName" : "Junction Name",
+                        "pos" : [0.51, 0.5, 0.001],
                         "rot" : [0.0, 0.0, 0.0],
-                       "scale" : 0.5,
-              "maxLength": 20,
-              "wrapWidth" : "11",
+                       "scale" : 0.45,
+              "maxLength": 25,
+              "wrapWidth" : "28",
               "autoScale" : true,
-              "renderPosition" : 1, 
+              "renderPosition" : 0, 
                        "color" : "0xFFFFFF"
                                   }]
 	}

@@ -1,0 +1,54 @@
+{
+    "general": {
+        "name" : "Blue - Overhead Turn Light",
+        "type" : "sign",
+        "modelName" : "sign",
+        "materials" : ["oredict:ingotIron:1"],
+        "textObjects" : [
+            {
+                        "fieldName" : "Line 1",
+                        "pos" : [0.37, 0.94, 0.001],
+                        "rot" : [0.0, 0.0, 0.0],
+                       "scale" : 0.4,
+              "maxLength": 20,
+              "wrapWidth" : "25",
+              "autoScale" : true,
+              "renderPosition" : 2, 
+                       "color" : "0xFFFFFF"
+                                  },
+                                  {
+                                    "fieldName" : "Line 2",
+                                    "pos" : [0.37, 0.71, 0.001],
+                                    "rot" : [0.0, 0.0, 0.0],
+                                   "scale" : 0.4,
+                          "maxLength": 20,
+                          "wrapWidth" : "25",
+                          "autoScale" : true,
+                          "renderPosition" : 2, 
+                                   "color" : "0xFFFFFF"
+                                              },
+                                              {
+                                                "fieldName" : "Line 3",
+                                                "pos" : [0.37, 0.48, 0.001],
+                                                "rot" : [0.0, 0.0, 0.0],
+                                               "scale" : 0.4,
+                                      "maxLength": 20,
+                                      "wrapWidth" : "25",
+                                      "autoScale" : true,
+                                      "renderPosition" : 2, 
+                                               "color" : "0xFFFFFF"
+                                                          },
+                                                          {
+                                                            "fieldName" : "Line 4",
+                                                            "pos" : [0.37, 0.25, 0.001],
+                                                            "rot" : [0.0, 0.0, 0.0],
+                                                           "scale" : 0.4,
+                                                  "maxLength": 20,
+                                                  "wrapWidth" : "25",
+                                                  "autoScale" : true,
+                                                  "renderPosition" : 2, 
+                                                           "color" : "0xFFFFFF"
+                                                                      }
+                                ]
+	}
+}
