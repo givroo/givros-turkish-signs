@@ -1,0 +1,43 @@
+{
+    "general": {
+        "name" : "Exception Sign",
+        "type" : "sign",
+        "modelName" : "sign",
+        "materials" : ["oredict:ingotIron:1"],
+        "textObjects" : [
+            {
+                        "fieldName" : "Line 1",
+                        "pos" : [0, 0.80, 0.001],
+                        "rot" : [0.0, 0.0, 0.0],
+                       "scale" : 0.35,
+              "maxLength": 20,
+              "wrapWidth" : "14",
+              "autoScale" : true,
+              "renderPosition" : 0, 
+                       "color" : "0x000000"
+                                  },
+                                  {
+                                    "fieldName" : "Line 2",
+                                    "pos" : [0, 0.55, 0.001],
+                                    "rot" : [0.0, 0.0, 0.0],
+                                   "scale" : 0.35,
+                          "maxLength": 20,
+                          "wrapWidth" : "14",
+                          "autoScale" : true,
+                          "renderPosition" : 0, 
+                                   "color" : "0x000000"
+                                              },
+                                              {
+                                                "fieldName" : "Line 3",
+                                                "pos" : [0, 0.3, 0.001],
+                                                "rot" : [0.0, 0.0, 0.0],
+                                               "scale" : 0.35,
+                                      "maxLength": 20,
+                                      "wrapWidth" : "14",
+                                      "autoScale" : true,
+                                      "renderPosition" : 0, 
+                                               "color" : "0x000000"
+                                                          }
+                                ]
+	}
+}
