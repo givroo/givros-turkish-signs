@@ -1,11 +1,9 @@
 {
     "general": {
-        "name" : "Jurisdiction Begins (Right)",
+        "name" : "Clean Highways (Left)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"]
-
-        
-    }
     
+	}
 }
