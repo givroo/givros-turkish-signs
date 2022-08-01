@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Blue - Go Straight For Destination Sign",
+        "name" : "Blue - Go Left Sign",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],

@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Blue - City Enter Right",
+        "name" : "Blue - City Enter (Right)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],

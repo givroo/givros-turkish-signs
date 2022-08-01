@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "White - Go Straight For Destination Sign",
+        "name" : "White - Go Straight Sign",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],

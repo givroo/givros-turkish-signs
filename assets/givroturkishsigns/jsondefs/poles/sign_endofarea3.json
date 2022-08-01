@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Jurisdiction Ends (Left)",
+        "name" : "Orange - Jurisdiction Ends (Left)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],

@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Length Left",
+        "name" : "White - Length (Left)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],

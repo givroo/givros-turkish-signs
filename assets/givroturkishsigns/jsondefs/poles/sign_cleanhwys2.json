@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Clean Highways (Right)",
+        "name" : "Orange - Clean Highways (Right)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"]

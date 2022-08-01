@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Tunnel Left",
+        "name" : "Blue - Tunnel (Left)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],

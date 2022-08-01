@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Blue - Overhead Turn Light",
+        "name" : "Blue - Overhead Left Turn (Right)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],

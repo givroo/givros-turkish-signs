@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Blue - Overhead Go Straight",
+        "name" : "Blue - Overhead Go Straight (Left)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],

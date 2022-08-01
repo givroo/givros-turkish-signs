@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Blue - City Exit Left",
+        "name" : "Blue - City Exit (Left)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],

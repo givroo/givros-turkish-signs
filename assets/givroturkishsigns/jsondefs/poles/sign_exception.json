@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Exception Sign",
+        "name" : "Orange - Exception",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"],
