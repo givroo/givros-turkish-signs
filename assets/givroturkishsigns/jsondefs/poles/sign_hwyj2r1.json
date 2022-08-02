@@ -1,0 +1,9 @@
+{
+    "general": {
+        "name" : "Green - Left Shoulder Highway Exit Sign (Top Right)",
+        "type" : "sign",
+        "modelName" : "sign",
+        "materials" : ["oredict:ingotIron:1"]
+    
+	}
+}

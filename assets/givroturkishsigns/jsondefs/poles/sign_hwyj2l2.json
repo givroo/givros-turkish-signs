@@ -1,0 +1,44 @@
+{
+    "general": {
+        "name" : "Green - Left Shoulder Highway Exit Sign (Bottom Left)",
+        "type" : "sign",
+        "modelName" : "sign",
+        "materials" : ["oredict:ingotIron:1"],
+        "textObjects" : [
+            {
+                        "fieldName" : "Destination (Exit) 1",
+                        "pos" : [-0.35, 1.8, 0.001],
+                        "rot" : [0.0, 0.0, 0.0],
+                       "scale" : 0.5,
+              "maxLength": 20,
+              "wrapWidth": 32,
+              "autoScale" : true,
+              "renderPosition" : 1, 
+                       "color" : "0xFFFFFF"
+                                  },
+                                  {
+                                    "fieldName" : "Destination (Exit) 2",
+                                    "pos" : [-0.35, 1.5, 0.001],
+                                    "rot" : [0.0, 0.0, 0.0],
+                                   "scale" : 0.5,
+                          "maxLength": 20,
+                          "wrapWidth": 32,
+                          "autoScale" : true,
+                          "renderPosition" : 1, 
+                                   "color" : "0xFFFFFF"
+                                              },
+                                              {
+                                                "fieldName" : "Destination (Exit) 3",
+                                                "pos" : [-0.35, 1.2, 0.001],
+                                                "rot" : [0.0, 0.0, 0.0],
+                                               "scale" : 0.5,
+                                      "maxLength": 20,
+                                      "wrapWidth": 32,
+                                      "autoScale" : true,
+                                      "renderPosition" : 1, 
+                                               "color" : "0xFFFFFF"
+                                                          }
+                                ]
+    }}
+    
+    
