@@ -1,6 +1,6 @@
 {
     "general": {
-        "name" : "Green - Highway to Highway Junction Sign (Top Left)",
+        "name" : "Green - Highway to Highway Junction Sign (Center)",
         "type" : "sign",
         "modelName" : "sign",
         "materials" : ["oredict:ingotIron:1"]
